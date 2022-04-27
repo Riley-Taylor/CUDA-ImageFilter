@@ -14,11 +14,11 @@
 
 #### Code Features ####
 ◻️ The program has a kernel function that allows access to each index. <br>
-◻️ As well as place small border around the image, so no memory errors are acheived. <br>
+◻️ As well as a small border around the "image", so no memory errors are acheived. <br>
 ◼️ Allocates memory for the transfer to the GPU. <br>
 ◼️ Calls the kernel function to perform the task at hand. <br>
 ◼️ The filter we are applying is a 3x3 matrix full of 9s. <br>
-◻️ Transfer the new image back to CPU and prints image on screen.
+◻️ Transfer the new image back to CPU and print image on screen.
 <br>
 
 ___Below is the image!___
